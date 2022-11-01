@@ -1,7 +1,7 @@
 👋 Servus, I’m @mspringsits.
 
-I am a self-employeed software engineer located in Vienna, Austria 🇦🇹.
+I am a self-employed software engineer located in Vienna, Austria 🇦🇹.
 
-My particular interest lies in software architecure 🏛️, distributed systems 🌍, as well as secure systems design 🔐. 
+My particular interests lie in software architecure 🏛️, distributed systems 🌍, as well as secure systems design 🔐. 
 
 If you want reach out to me, feel free: michael@springsits.cc 📧.
